@@ -1,0 +1,49 @@
+﻿信息系统与数据库技术练习6答题卡
+
+班级：计算机信息管理2班     
+姓名： 张佳楠    
+学号：  20190307230   
+
+*注：排除答案放置在序号下方。* /
+
+（一）
+1.
+创建数据库在线商店
+
+2.
+使用在线商店
+
+3.
+创建表客户
+（1）（
+   Cid int PRIMARY KEY，
+（2）卡片char（18）NOT NULL，
+（3）Cname nVarChar（3）NULL，
+（4）RegDate dateTime不是NULL，
+（5）平均值（12,2）
+   ）
+
+4.
+创建表书籍
+（
+出价CHAR（4）PRIMARY KEY，
+Bname VARCHAR（20）NOT NULL，
+作者VARCHAR（15），
+发布者VARCHAR（30），
+PublisherDate dateTime，
+价款（8），
+折扣decimal（3,2）
+）
+
+5.
+使用大师
+
+6.
+EXEC sp_helpdb在线商店
+
+7.
+DROP DATEBASE网上商店
+   
+
+
+
